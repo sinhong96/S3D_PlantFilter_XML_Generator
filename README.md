@@ -13,7 +13,7 @@ It supports both **Detail** and **Bulk** modes and outputs `FiltersAndStyleRules
   to generate multiple filters at once
 - XML structure includes `Information(FileType=FiltersAndStyleRules)` and `PlantFilters`
 - Status updates and error handling dialogs
-![Screenshot of the S3D Filter XML Generator application](imagesUI.png)
+![Screenshot of the S3D Filter XML Generator application](images/UI.png)
 
 ## UI Flow
 - Tabs: **1. Filter (Detail)** / **2. Filter (Bulk)**
